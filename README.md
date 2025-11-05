@@ -1,16 +1,3 @@
-<<<<<<< HEAD
-
-  # Portfolio Website
-
-  This is a code bundle for Portfolio Website. The original project is available at https://www.figma.com/design/sG9lWoPgyb60c3bT7Y3biD/Portfolio-Website.
-
-  ## Running the code
-
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
-=======
 # MyPortfolio
 I created my portfolio using React, Tailwind CSS, and Framer Motion with smooth animations, glassmorphic UI, and a dark cosmic theme. It’s fully responsive, highlights my AI-driven web development projects, and includes an EmailJS-powered contact form for easy communication.
 
@@ -51,5 +38,3 @@ Built using **React**, **Tailwind CSS**, and **Framer Motion**, this site blends
 | Tailwind CSS | Lucide Icons | Sonner Toast | Render / Hostinger |
 
 ---
-
->>>>>>> bdb68425c7cc24e2a76efd239085a1cae4aa772b
